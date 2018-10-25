@@ -1,4 +1,4 @@
-# Discord-Resouce-Smasher
+# Discord-Resource-Smasher
 Uses extended ascii to lag the client and crash browers.
 
 
